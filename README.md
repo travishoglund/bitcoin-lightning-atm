@@ -9,6 +9,7 @@ The purporse of this repo is to help you setup your own Bitcoin Lightning ATM.  
 [![Penny LED](./images/led-atm.jpg)](./penny/led/README.md)
 
 ###Multi Coin ATM
+
 [![Penny LED](./images/multi-atm.jpg)](./multi-coin/standard/README.md)
 
 # License
