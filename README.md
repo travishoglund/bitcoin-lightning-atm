@@ -1,14 +1,14 @@
 # bitcoin-lightning-atm
 
-The purporse of this repo is to help you setup your own Bitcoin Lightning ATM.  Currently there are 3 different configurations as follows:
+The purpose of this repo is to help you setup your own Bitcoin Lightning ATM.  Currently there are 3 different configurations as follows:
 
-###Penny ATMs
+### Penny ATMs
 
 [![Penny ATM](./images/penny-atm.jpg)](./penny/standard/README.md)
 
 [![Penny LED](./images/led-atm.jpg)](./penny/led/README.md)
 
-###Multi Coin ATM
+### Multi Coin ATM
 
 [![Penny LED](./images/multi-atm.jpg)](./multi-coin/standard/README.md)
 
